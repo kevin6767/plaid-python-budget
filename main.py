@@ -4,7 +4,7 @@ from plaid.api import plaid_api
 from plaid.model.accounts_balance_get_request import AccountsBalanceGetRequest
 from plaid.model.transactions_get_request import TransactionsGetRequest
 import pygsheets
-
+import numpy as np
 
 # Available environments are
 # 'Production'
