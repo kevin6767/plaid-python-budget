@@ -1,3 +1,4 @@
-service_account_credentails.json
+service_account_credentials.json
 client_secret.json
 venv
+.idea
