@@ -31,7 +31,7 @@ Before doing anything, you should first follow these two setup guides
     - install pygsheets and follow the authorization guide. This will give you access to download the JSON file `service_account_credentials` that is used for our `.env` variable `SERVICE_FILE`
 
 # BEFORE MOVING ON 
-- Currently the amount and the dates of the transactions are just hardcoded, those will need to be changed if you want to see a different time period or amount.
+- Currently the amount and the dates of the transactions are just hardcoded, those will need to be changed if you want to see a different time period or amount. https://github.com/kevin6767/plaid-python-budget/blob/main/main.py#L30
     
 
 ## Run Locally
