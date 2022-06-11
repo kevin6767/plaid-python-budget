@@ -2,3 +2,4 @@ service_account_credentials.json
 client_secret.json
 venv
 .idea/*
+.env
