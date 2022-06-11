@@ -29,6 +29,9 @@ Before doing anything, you should first follow these two setup guides
     - this will give you access to `CLIENT_ID` and `SECRET` and `ACCESS_TOKEN` that is gained through allowing access to your bank
 - https://pygsheets.readthedocs.io/en/stable/index.html
     - install pygsheets and follow the authorization guide. This will give you access to download the JSON file `service_account_credentials` that is used for our `.env` variable `SERVICE_FILE`
+
+# BEFORE MOVING ON 
+- Currently the amount and the dates of the transactions are just hardcoded, those will need to be changed if you want to see a different time period or amount.
     
 
 ## Run Locally
